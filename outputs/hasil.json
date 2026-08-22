@@ -1,0 +1,13 @@
+[
+  {
+    "text": "...",
+    "label": "positif",
+    "scores": {
+      "sangat positif": 0.0,
+      "positif": 0.61,
+      "netral": 0.0,
+      "negatif": 0.0,
+      "sangat negatif": 0.0
+    }
+  }
+]

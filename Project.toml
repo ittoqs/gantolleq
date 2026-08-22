@@ -1,0 +1,14 @@
+name = "Gantolleq"
+uuid = "12345678-1234-1234-1234-123456789012"
+authors = ["Author"]
+version = "0.1.0"
+
+[deps]
+ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
+BSON = "fbb218c0-5317-5bc6-957e-2ee96dd4b1f0"
+TextAnalysis = "3cfb75f8-3e42-5ba0-8a21-93e5af3aab9e"
+MLJ = "add582a8-e3ab-11e8-2d5e-e98b27df1bc7"
+MLJLinearModels = "614be32b-d00c-4edb-8ceb-a514d4e021a8"
